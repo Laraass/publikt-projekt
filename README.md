@@ -30,14 +30,12 @@
 ## Några Git kommandon som jag själv lärt mig från källor
 
 **git stash** för att tillfälligt spara bort ändringar utan att de committas
-
 [Källa](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
 
 
 ## Något om Github som jag lärt mig
 
 Genom plattformen Github kan flera samarbeta i ett projekt och lägga till ändringar eller förslag innan dessa tillämpas i huvudkoden.
-
 [Källa](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 
 
