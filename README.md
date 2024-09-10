@@ -1,9 +1,13 @@
 ## Några terminalkommandon som jag har lärt mig i terminalen
 
 **ls** för att se innehållet i en mapp
+
 **cd + vad man letar efter** för att gå till en specifik mapp, t.ex cd Documents
+
 **mkdir** för att skapa en mapp
+
 **mv oldname newname** för att döpa om en mapp
+
 **rm** för att ta bort en mapp
 
 
