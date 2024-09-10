@@ -46,3 +46,7 @@ Genom plattformen Github kan flera samarbeta i ett projekt och lägga till ändr
 
 Markdown används i textfiler för att t.ex skapa rubriker, underrubriker, länkar, listor, bilder med mera.
 [Källa](https://www.markdownguide.org/basic-syntax/)
+
+## Övrig information
+
+Dessa kommandon kan komma att se annorlunda ut beroende på vilket operativsystem användaren har.
